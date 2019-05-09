@@ -7,7 +7,6 @@
         "type": "git",
         "url": "https://github.com/cornflourblue/node-role-based-authorization-api.git"
     },
-    "main": "server.js",
     "scripts": {
         "start": "node server.js"
     },
