@@ -36,13 +36,8 @@ function getById(req, res, next) {
         .then(user => user ? res.json(user) : res.sendStatus(404))
         .catch(err => next(err));
 }
-<<<<<<< HEAD
-
-
 router.get('/test', (req, res, next) => {
     
             res.json({ success: true, msg: 'test' });
   
 });
-=======
->>>>>>> 4a6958690aef3cfa5febef4f94024ef490f0e90e
