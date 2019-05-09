@@ -16,10 +16,9 @@
         "cors": "^2.8.5",
         "express": "^4.16.4",
         "express-jwt": "^5.3.1",
-        "jsonwebtoken": "^8.4.0",
-        "rootpath": "^0.1.2"
+        "jsonwebtoken": "^8.4.0"
     },
     "devDependencies": {
-       "@angular/cli": "^1.7.1"
+        "@angular/cli": "^1.7.1"
     }
 }
