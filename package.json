@@ -1,6 +1,9 @@
 {
     "name": "node-role-based-authorization-api",
     "version": "1.0.0",
+    "engines": {
+    "node": "8.11.3"
+  },
     "description": "Node.js Role Based Authorization API",
     "license": "MIT",
     "repository": {
